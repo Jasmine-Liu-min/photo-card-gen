@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+venv/
+
+# 图片文件（不提交用户生成的）
+*.jpg
+*.jpeg
+*.png
+!assets/示例.jpg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 其他
+*.log
+*.zip
