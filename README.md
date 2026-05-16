@@ -1,4 +1,4 @@
-# 📸 Photo Card Generator
+# 📸 MemoryCard 拾光卡
 
 上传照片，自动提取主色调，生成精美卡片。
 
@@ -27,8 +27,6 @@ streamlit run app.py
 photo-card-gen/
 ├── app.py              # 主入口
 ├── requirements.txt    # 依赖
-├── src/app.py          # Streamlit界面
-├── utils/photo_card.py # 核心逻辑
-├── fonts/              # 字体文件
-└── assets/             # 示例图片
+├── utils/photo_card.py # 核心逻辑 
+└── fonts/              # 字体文件
 ```
